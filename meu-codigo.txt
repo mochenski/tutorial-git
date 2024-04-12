@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ihaaaaaa
 
 meu codigo maneiro
+=======
+esse é `meu codigo maneiro
+>>>>>>> 56db8a301be3feaa6b0188d8095106112dceb1b1
